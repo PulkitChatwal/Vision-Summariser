@@ -18,7 +18,7 @@ This **Streamlit-based AI application** enables users to analyze and summarize v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Vision-Summariser.git
+   git clone https://github.com/PulkitChatwal/Vision-Summariser.git
    cd Vision-Summariser
    ```
 
