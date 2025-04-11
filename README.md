@@ -18,8 +18,8 @@ This **Streamlit-based AI application** enables users to analyze and summarize v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-ai-summarizer.git
-   cd video-ai-summarizer
+   git clone https://github.com/your-username/Vision-Summariser.git
+   cd Vision-Summariser
    ```
 
 2. Install dependencies:
